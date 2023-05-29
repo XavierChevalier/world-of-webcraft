@@ -1,0 +1,20 @@
+# IDE
+.idea
+
+# Build
+dist
+dist-ssr
+coverage
+
+# NPM
+node_modules
+
+# Cache
+.DS_Store
+.eslintcache
+
+# Logs
+*.log
+
+# Environment files
+*.local
